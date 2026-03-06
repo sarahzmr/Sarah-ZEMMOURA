@@ -1,6 +1,6 @@
 # Sarah-ZEMMOURA
 My GitHub profile README
-# Hi, I'm Sarah 👋
+# Hi, I'm Sarah 
 
 I am an engineering student with a growing interest in **data analysis and data-driven decision making**. I enjoy working with data to uncover patterns, extract insights, and communicate results through clear analysis and visualizations.
 
@@ -30,5 +30,5 @@ A collection of practical exercises involving Excel analysis, SQL queries, and d
 
 LinkedIn: www.linkedin.com/in/
 
-I’m always interested in learning, collaborating, and exploring new opportunities in data and technology.
+I’m always interested in learning , collaborating, and exploring new opportunities in data and technology.
 
